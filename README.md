@@ -19,4 +19,4 @@ c. 音樂程式控制
 備註：若使用python 64bit，則需安裝vlc 64bit作為對應。
 
 ## Screenshot
-![Alt text](images/finger.jpeg)
+![Alt text](images/finger.jpg)
